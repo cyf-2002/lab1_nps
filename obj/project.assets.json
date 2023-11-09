@@ -206,11 +206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\nps\\nps.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\陈一帆_2020E8015082024_ex1A_src\\nps.csproj",
       "projectName": "nps",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\nps\\nps.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\陈一帆_2020E8015082024_ex1A_src\\nps.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\nps\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\陈一帆_2020E8015082024_ex1A_src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
